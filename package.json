@@ -1,0 +1,11 @@
+{
+  "name": "docker-on-jobs",
+  "version": "1.0.0",
+  "description": "example project to create release pipelines using docker on github actions jobs",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
